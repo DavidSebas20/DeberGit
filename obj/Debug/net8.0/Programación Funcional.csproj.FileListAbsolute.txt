@@ -1,0 +1,14 @@
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\bin\Debug\net8.0\Programación Funcional.exe
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\bin\Debug\net8.0\Programación Funcional.deps.json
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\bin\Debug\net8.0\Programación Funcional.runtimeconfig.json
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\bin\Debug\net8.0\Programación Funcional.dll
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\bin\Debug\net8.0\Programación Funcional.pdb
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\Programación Funcional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\Programación Funcional.AssemblyInfoInputs.cache
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\Programación Funcional.AssemblyInfo.cs
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\Programación Funcional.csproj.CoreCompileInputs.cache
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\Programación Funcional.dll
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\refint\Programación Funcional.dll
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\Programación Funcional.pdb
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\Programación Funcional.genruntimeconfig.cache
+D:\Universidad\Marcos De Desarrollo II\Trabajos C#\Programación Funcional\obj\Debug\net8.0\ref\Programación Funcional.dll
